@@ -1,0 +1,4 @@
+com\damiza\hello\spring\cloud\web\admin\ribbon\service\AdminService.class
+com\damiza\hello\spring\cloud\web\admin\ribbon\config\RestTemplateConfiguration.class
+com\damiza\hello\spring\cloud\web\admin\ribbon\WebAdminRibbonApplication.class
+com\damiza\hello\spring\cloud\web\admin\ribbon\controller\AdminController.class
