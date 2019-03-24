@@ -7,7 +7,7 @@ spring:
       server:
         git:
           uri: https://github.com/137031931/hello-spring-cloud
-          search-paths: respo
+          search-paths: hello-spring-cloud/spring-cloud-config/respo
           username: 137031931
           password: Aa241314
 

@@ -1,3 +1,4 @@
+com\damiza\hello\spring\cloud\web\admin\feign\config\HystrixDashboardConfiguration.class
 com\damiza\hello\spring\cloud\web\admin\feign\service\AdminService.class
 com\damiza\hello\spring\cloud\web\admin\feign\controller\AdminController.class
 com\damiza\hello\spring\cloud\web\admin\feign\service\hystrix\AdminServiceHystrix.class
