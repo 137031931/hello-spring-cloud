@@ -1,0 +1,4 @@
+com\damiza\hello\spring\cloud\zuul\ZuulApplication.class
+com\damiza\hello\spring\cloud\zuul\filter\LoginFilter.class
+com\damiza\hello\spring\cloud\zuul\provider\WebAdminFeignFallbackProvider$1.class
+com\damiza\hello\spring\cloud\zuul\provider\WebAdminFeignFallbackProvider.class

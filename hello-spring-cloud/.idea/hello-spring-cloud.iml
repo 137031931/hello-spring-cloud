@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/hello-spring-cloud-zuul/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/hello-spring-cloud-config/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hello-spring-cloud-config/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/hello-spring-cloud-admin/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
